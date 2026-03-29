@@ -646,7 +646,7 @@ object is simply a collection of data(variables)and methods(functions)that act o
 # a.func2()
 # # a.sec()
 # a.func3()
-
+# oops is ready
 
 
      
